@@ -1,6 +1,6 @@
 # AlgoTrading
 
-This repo is based on the final project of the course "Algorithmic Trading" taught at Hult International Business School by professor Michael Rolleigh. The goal is to backtest a trading algorithm that recieves the output from a machine learning model as a signal to perform the strategy. Please find the final results in `Algorithmic Trading in Python.pdf`  
+This repo is based on the final project of the course "Algorithmic Trading" taught at Hult International Business School by professor Michael Rolleigh. The goal is to backtest a trading algorithm that receives the output from a machine learning model as a signal to perform the strategy. Please find the final results in `Algorithmic Trading in Python.pdf`  
 
 The corresponding tasks are divided in the following notebooks: 
 
