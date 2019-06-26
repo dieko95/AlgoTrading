@@ -1,3 +1,5 @@
+<h1> Algorithmic Trading with Python </h1>
+
 The following repo is based on the final project of the course "Algorithmic Trading" taught at Hult International Business School by professor Michael Rolleigh. The goal is to backtest a trading algorithm that receives the output from a machine learning model as a signal to perform the strategy. Please find the final results in <span style="color: #333399;"><strong><a style="color: #333399;" href="https://github.com/dieko95/AlgoTrading/blob/master/Algorithmic%20Trading%20in%20Python.pdf">Algorithmic Trading in Python.pdf</a></strong></span>
 
 The corresponding tasks are divided into the following notebooks:
