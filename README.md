@@ -48,7 +48,7 @@ Backtesting consists of creating a trading strategy and going back in time simul
 </ul>
 <strong>3. Baseline Strategy + Limiting the change of position by a max of 10% a day + 1 Day Lag</strong>
 <ul>
- 	<li>The 1 Day Lag was incorporated due to the fact that `bt` used the closing price in its backtesting.</li>
+ 	<li>The 1 Day Lag was incorporated due to the fact that the library `bt` used the closing price in its backtesting.</li>
 </ul>
 <h2 style="text-align: center;"><span style="color: #333399;"><a style="color: #333399;" href="https://github.com/dieko95/AlgoTrading/blob/master/Notebooks/Backtesting_only_test_data.ipynb">Backtesting_only_test_data.ipynb</a></span></h2>
 This notebook backtests the previously mentioned strategies only in the test data time range (2018-04-01 to 2018-12-30).
